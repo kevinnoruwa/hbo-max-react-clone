@@ -1,0 +1,12 @@
+@use 'reset';
+@use 'login';
+@use 'create-user';
+@use '../componets/ui/header/header.scss';
+@use "../componets/ui/SideNav/side-nav.scss";
+@use "../componets/ui/featured/featured-media.scss";
+@use "../componets/ui/for-you-list/for-you-list.scss";
+@use "../componets/ui/justAdded/just-added.scss";
+@use "../componets/ui/poster-view/poster-view.scss";
+@use "../componets/ui/CastInfo/cast-info.scss";
+@use "../componets/ui/account/account.scss";
+@use "../componets/ui/search-modal/search-modal.scss";
