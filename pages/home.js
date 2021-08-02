@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
+
 import MainLayout from '../componets/layouts/mainLayout'
 import FeaturedMedia from "../componets/ui/featured/featuredMedia"
 import ForYouList from "../componets/ui/for-you-list/forYouList"
