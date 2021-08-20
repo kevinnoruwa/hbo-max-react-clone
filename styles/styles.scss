@@ -1,5 +1,5 @@
 @use 'reset';
-@use 'login';
+@use '../componets/ui/login/login.scss';
 @use 'create-user';
 @use '../componets/ui/header/header.scss';
 @use "../componets/ui/SideNav/side-nav.scss";
